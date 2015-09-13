@@ -1,0 +1,5 @@
+ON A B C
+OFF C
+ON D E F G
+OFF E B
+END ROUTE
