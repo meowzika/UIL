@@ -2,15 +2,6 @@ import java.io.*;
 import java.util.*;
 import static java.lang.System.*;  
 
-
-import java.util.Map;
-import java.util.TreeMap;
-import java.util.Collection;
-import java.util.List;
-import java.util.Arrays;
-import java.util.Iterator;
-
-
 public class X3 {
 
 	public static void main(String args[]) throws IOException
